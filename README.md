@@ -8,9 +8,9 @@ Please visit [HashiCorp Terraform's](https://www.hashicorp.com/products/terrafor
 
 ### API Mocks
 
-First artifact is a collection of API mocks for using with [Microcks](https://microcks.io). Microcks is an open soruce tool for turning your API contract, Postman Collection or SoapUI project into live mocks in seconds.
+First artifact is a collection of API mocks for using with [Microcks](https://microcks.io). Microcks is an open source tool for turning your API contract, Postman Collection or SoapUI project into live mocks in seconds.
 
-Our artifact imported into Microcks allows your to access comprehensive, real-world samples on how Terraform Enterprise API is expected to work. Then it allows you to easily mock-up a Terraform instance for your integration tests without "polluting" a real instance.
+Our artifact imported into Microcks allows you to access comprehensive, real-world samples on how Terraform Enterprise API is expected to work. Then it allows you to easily mock-up a Terraform instance for your integration tests without "polluting" a real instance.
 
 #### Setup
 
